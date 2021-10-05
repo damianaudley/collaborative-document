@@ -1,7 +1,8 @@
-# collaborative-document\
 
+# collaborative-document
+This repository contains a collaborative document function which multiplies three numbers
 
-aksdm;lsdmsd\
+aksdm;lsdmsd
 
 sdvd
 cSd
